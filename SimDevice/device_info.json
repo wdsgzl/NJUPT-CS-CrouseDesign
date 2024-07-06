@@ -1,0 +1,28 @@
+{
+  "deviceNum": 3,
+  "device_index": ["Temperature_sensor", "Light_sensor", "CO2_sensor"],
+  "Temperature_sensor": {
+    "sensor_name": "Temperature_sensor",
+    "productKey": "k1ggwxWz3Re",
+    "deviceName": "wendu",
+    "deviceSecret": "0b08e6ad0e8673271a81983528a746d4",
+    "host": "iot-06z00emwrpwm0x1.mqtt.iothub.aliyuncs.com",
+    "port": 1883
+  },
+  "Light_sensor": {
+    "sensor_name": "Light_sensor",
+    "productKey": "k1ggwFGtvcl",
+    "deviceName": "Light",
+    "deviceSecret": "5462602b75d7e66802e8fe859bdb2178",
+    "host": "iot-06z00emwrpwm0x1.mqtt.iothub.aliyuncs.com",
+    "port": 1883
+  },
+  "CO2_sensor": {
+    "sensor_name": "CO2_sensor",
+    "productKey": "k1ggwzwH4wE",
+    "deviceName": "CCOO",
+    "deviceSecret": "fc0a3def26007efa2861f748c0dd8f2b",
+    "host": "iot-06z00emwrpwm0x1.mqtt.iothub.aliyuncs.com",
+    "port": 1883
+  }
+}
